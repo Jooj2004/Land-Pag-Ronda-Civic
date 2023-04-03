@@ -4,7 +4,7 @@
 }
 
 body{
-    background-image: url('/assets/imagens/plano_de_fundo.jpg');
+    background-image: url('../imagens/plano_de_\ fundo.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
